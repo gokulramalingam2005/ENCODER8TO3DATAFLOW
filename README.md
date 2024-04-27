@@ -1,8 +1,8 @@
 ### ENCODER 8 TO 3 DATAFLOW Modelling
 
-Developed By : Rama E.K. Lekshmi
+Developed By : R Gokul
 
-Register Number : 212222240082 
+Register Number : 212222230039
 
 **AIM:**
 
@@ -69,9 +69,9 @@ endmodule
 
 */
 
-Developed by:Rama E.K. Lekshmi
+Developed by:R Gokul 
 
-RegisterNumber:212222240082
+RegisterNumber:212222230039
 */
 ```
 
